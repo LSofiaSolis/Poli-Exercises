@@ -41,14 +41,6 @@ not equals
 
 ## Compilación y ejecución
 
-**Linux / macOS**
-```bash
-javac ExerciseThreePoli.java
-echo "2.999 3 0.00000001" | java ExerciseThreePoli
-```
-
-**Windows (PowerShell)**
-```powershell
 javac ExerciseThreePoli.java
 '2.999 3 0.00000001' | java ExerciseThreePoli
 ```
