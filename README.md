@@ -38,16 +38,3 @@ not equals
 ```
 
 ---
-
-## Compilación y ejecución
-
-javac ExerciseThreePoli.java
-'2.999 3 0.00000001' | java ExerciseThreePoli
-```
-
----
-
-## Notas
-- Compatible con **JDK 8+**.  
-- Entrada por **stdin**, salida por **stdout**.  
-- Sin librerías externas (solo `java.util` y `java.lang`).  
